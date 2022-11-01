@@ -33,5 +33,5 @@
   Gaurav sen  
   concept and coding
   Aditya Verma
-  Sumit malik
+  Sumit Malik
   
