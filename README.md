@@ -3,30 +3,30 @@
 
 
 #  Websites for learning Java
-   https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html#axzz7jN80djcJ
-   https://www.javatpoint.com/
-   https://howtodoinjava.com/series/getting-started-with-java/
-   https://www.geeksforgeeks.org/java/?ref=shm
-   https://www.baeldung.com/java-tutorial
-   https://www.baeldung.com/category/programming
-   https://www.baeldung.com/full_archive
-   https://www.indiabix.com/java-programming/questions-and-answers/
-   https://www.java67.com/
+   [^1] https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html#axzz7jN80djcJ
+   [^2] https://www.javatpoint.com/
+   [^3] https://howtodoinjava.com/series/getting-started-with-java/
+   [^4] https://www.geeksforgeeks.org/java/?ref=shm
+   [^5] https://www.baeldung.com/java-tutorial
+   [^6] https://www.baeldung.com/category/programming
+   [^7] https://www.baeldung.com/full_archive
+   [^8] https://www.indiabix.com/java-programming/questions-and-answers/
+   [^9] https://www.java67.com/
    
    
 #  Websites for learning Spring, Springboot   
-   https://www.baeldung.com/spring-boot
-   https://howtodoinjava.com/series/spring-boot-tutorial/
+   [^1] https://www.baeldung.com/spring-boot
+   [^2] https://howtodoinjava.com/series/spring-boot-tutorial/
    
 #  Multiple series for learning Java and Spring
-   https://www.baeldung.com/category/series
+   [^1] https://www.baeldung.com/category/series
    
    
 # Books
-  https://www.baeldung.com/baeldung-ebooks
+  [^1] https://www.baeldung.com/baeldung-ebooks
   
 # Learn React and Javascript and other with practice
-  https://morioh.com/
+  [^1] https://morioh.com/
   
 # Youtube channels
   Daily code buffer
